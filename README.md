@@ -19,3 +19,4 @@ The middle part of the page is the main section with 5 links to different projec
 
 The bottom part of the page contains information on how to contact the web-developer (e.g. E-mail, mobile, github, etc.)
 
+APPLICATION LINK: https://31kostya31.github.io/PicScreative/
